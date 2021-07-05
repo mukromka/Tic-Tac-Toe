@@ -4,7 +4,7 @@
 using namespace std;
 class Board {
     private:
-        char arena[99];
+        char arena[999];
         bool XWin = false;
         bool OWin = false;
     public:
